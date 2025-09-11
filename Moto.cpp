@@ -1,13 +1,8 @@
 /*****************************************************************//**
- * \file   Entreprise.cpp
- * \brief  Definition de la classe Entreprise
- *
- * \author Pierre
- * \version 0.1
- * \date
- *
- * Programme Cpp permettant de creer des objets pour décrire les stages
- *********************************************************************/
+ * \file   Moto.cpp
+ * \author LOIC
+ * \date september 2k25
+**********************************************************************/
 
 #include "Moto.h"
 #include <string>
