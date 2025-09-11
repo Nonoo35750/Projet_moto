@@ -1,28 +1,18 @@
 /*****************************************************************//**
  * \file   Moto.h
- * 
+ *
  * \author LOIC
  * \date   september 2k25
  *********************************************************************/
-
-#include <iostream>
-#include <string>
-
 class Moto
 {
+private:
 
-    private:
+protected:
 
+public:
+    Moto();
 
-
-    protected : 
-
-
-
-    public:
-        moto() = 0;
-        ~moto();
+    ~Moto();
 
 };
-
-#endif
