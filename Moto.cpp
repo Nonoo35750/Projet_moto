@@ -16,12 +16,6 @@
 using namespace std;
 
 
-/**
- * \brief Constructeur par default 
- * \li Nom = anonyme
- * \li Ville = inconnu
- *  
- */
 Entreprise::Entreprise() {
 
 	this->nomEntreprise = "anonyme";
