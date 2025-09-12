@@ -5,7 +5,8 @@ class Conducteur {
 		protected:
 
 		private :
-			std::string nom;
+			std::string nomConducteur;
+			std::string prenomConducteur;
 		public :
 			Conducteur();
 			~Conducteur();

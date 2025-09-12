@@ -26,7 +26,7 @@ void Conducteur::setPrenomConducteur(std::string NouveauPrenom)
 
 std::string Conducteur::getNom()
 {
-	return this->nom;
+	return this->nomConducteur;
 }
 
 Conducteur::~Conducteur()
